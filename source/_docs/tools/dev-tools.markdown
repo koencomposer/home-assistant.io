@@ -19,7 +19,7 @@ Screenshot of Home Assistant's Developer Tools.
 
 ## What can I do with Developer Tools?
 
-The Developer Tools is meant for **all** (not just for the developers) to quickly try out things - like calling services, updating states, raising events, and publishing messages in MQTT). It is also a necessary tool for those who write custom automations and scripts by hand. The following describes each of the sections in detail.
+The Developer Tools is meant for **all** (not just for the developers) to quickly try out things - like calling services, updating states, raising events, and publishing messages in MQTT. It is also a necessary tool for those who write custom automations and scripts by hand. The following describes each of the sections in detail.
 
 ## States
 
